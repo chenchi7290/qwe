@@ -1,0 +1,2 @@
+windows下编译时用gcc和VSCode编译时，没有链接math库不会报错
+linux下编译用gcc时，没有链接math库会报错
